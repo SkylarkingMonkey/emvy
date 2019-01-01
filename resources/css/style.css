@@ -278,7 +278,7 @@ a{
   position: fixed;
   text-align: center;
   list-style: none;
-  background: grey;
+  background: rgba(211, 211, 211, 0.9);
   width: 100%;
   color: white;
   padding-top: 3.9em;
@@ -294,7 +294,7 @@ a{
 }
 #mobile-menu li a{
   border-style: solid;
-  border-top:  solid grey;
+  border-top:  rgba(211, 211, 211, 0.9);
   border-left-style: none;
   border-bottom: none;
   display:inline-block;
