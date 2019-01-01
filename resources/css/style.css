@@ -4,7 +4,7 @@ body {
   margin: 0;
   clear: both;
   font-family: 'Indie Flower', cursive;
-  min-width: 470px;
+  min-width: 400px;
 }
 
 
@@ -141,8 +141,12 @@ a:hover {
 
 .lander p{
   font-family: 'Josefin Slab', serif;
-  letter-spacing: .2em;
+  letter-spacing: .1em;
   text-align: left;
+}
+
+.lander-header {
+  letter-spacing: .1em;
 }
 
 .shrink{
