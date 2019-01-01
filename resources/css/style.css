@@ -146,7 +146,7 @@ a:hover {
 }
 
 .shrink{
-    top: -85px;
+    top: -100px;
     -webkit-transition: top 400ms;
     -moz-transition: top 400ms;
     -ms-transition: top 400ms;
